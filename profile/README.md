@@ -6,8 +6,8 @@
 
 <p align="center">
     <picture >
-      <source srcset="https://github.com/llm-d/.github/raw/main/assets/llm-d-logotype-and-icon-dark.png" media="(prefers-color-scheme: light)" alt="llm-d Logo">
-      <img src="https://github.com/llm-d/.github/raw/main/assets/llm-d-logotype-and-icon-dark.png" width="500px">
+      <source srcset="https://github.com/llm-d/.github/raw/main/assets/llm-d-logotype-and-icon.png" media="(prefers-color-scheme: light)" alt="llm-d Logo">
+      <img src="https://github.com/llm-d/.github/raw/main/assets/llm-d-logotype-and-icon.png" width="500px">
     </picture>
 </p>
 
