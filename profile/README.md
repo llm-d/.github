@@ -22,7 +22,7 @@ llm-d is a well-lit path for serving large language models at scale with the fas
 ## 🤝 How to Contribute
 
 ### Join the Community
-1. **💬 Slack:** Join our development discussions at [llm-d.slack.com](https://llm-d.ai/slack)
+1. **💬 Slack:** [Join](https://llm-d.ai/slack) our development discussions at [llm-d.slack.com](https://llm-d.slack.com)
 2. **📧 Google Group:** Subscribe to [llm-d-contributors](https://groups.google.com/g/llm-d-contributors) for architecture docs and meeting invites
 3. **🗓️ Weekly Standup:** Wednesdays at 1230 ET - [Public Calendar](https://red.ht/llm-d-public-calendar)
 
