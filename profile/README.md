@@ -2,7 +2,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/llm-d) [![Documentation](https://img.shields.io/badge/Documentation-8A2BE2?logo=readthedocs&logoColor=white&color=1BC070)](https://www.llm-d.ai) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/llm-d/llm-d/blob/dev/LICENSE)  
 
-[![Join Slack](https://img.shields.io/badge/Join_Slack-blue?logo=slack)](https://inviter.co/llm-d-slack) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/_llm_d_?style=social)](https://twitter.com/_llm_d_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-llm--d-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/llm-d/) [![Reddit](https://img.shields.io/badge/Reddit-llm__d-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/llm_d/)
+[![Join Slack](https://img.shields.io/badge/Join_Slack-blue?logo=slack)](https://llm-d.ai/slack) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/_llm_d_?style=social)](https://twitter.com/_llm_d_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-llm--d-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/llm-d/) [![Reddit](https://img.shields.io/badge/Reddit-llm__d-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/llm_d/)
 
 <p align="center">
     <picture >
@@ -22,7 +22,7 @@ llm-d is a well-lit path for serving large language models at scale with the fas
 ## 🤝 How to Contribute
 
 ### Join the Community
-1. **💬 Slack:** Join our development discussions at [llm-d.slack.com](https://inviter.co/llm-d-slack)
+1. **💬 Slack:** Join our development discussions at [llm-d.slack.com](https://llm-d.ai/slack)
 2. **📧 Google Group:** Subscribe to [llm-d-contributors](https://groups.google.com/g/llm-d-contributors) for architecture docs and meeting invites
 3. **🗓️ Weekly Standup:** Wednesdays at 1230 ET - [Public Calendar](https://red.ht/llm-d-public-calendar)
 
