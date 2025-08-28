@@ -15,7 +15,7 @@ llm-d is a well-lit path for serving large language models at scale with the fas
 
 ### Key Resources
 - **📖 Documentation:** [llm-d.ai](https://llm-d.ai)
-- **🏗️ Architecture:** [llm-d architecture docs](https://llm-d.ai/docs/architecture/architecture)
+- **🏗️ Architecture:** [llm-d architecture docs](https://llm-d.ai/docs/architecture)
 - **📖 Project Details:** [PROJECT.md](https://github.com/llm-d/llm-d/blob/dev/PROJECT.md)
 - **📦 Releases:** [GitHub Releases](https://github.com/llm-d/llm-d-deployer/releases)
 
