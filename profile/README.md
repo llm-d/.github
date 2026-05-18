@@ -21,7 +21,7 @@ New to llm-d? Here's how to get started:
 1. **Join our Slack 💬** → [Get your invite](https://llm-d.ai/slack) and visit [llm-d.slack.com](https://llm-d.slack.com)
 2. **Explore our code 📂** → [GitHub Organization](https://github.com/llm-d)
 3. **Join a meeting 📅** → [Add calendar](https://red.ht/llm-d-public-calendar)
-4. **Pick your area 🎯** → Browse [Special Interest Groups](https://llm-d.ai/docs/community/sigs).
+4. **Pick your area 🎯** → Browse [Special Interest Groups](https://llm-d.ai/community/sigs).
 
 ## 📚 Key Resources
 
@@ -29,7 +29,7 @@ New to llm-d? Here's how to get started:
 - **🏗️ Architecture:** [Architecture docs](https://llm-d.ai/docs/architecture)
 - **📖 Project Details:** [PROJECT.md](https://github.com/llm-d/llm-d/blob/main/PROJECT.md)
 - **📦 Releases:** [GitHub Releases](https://github.com/llm-d/llm-d/releases)
-- **📅 Upcoming Events:** [Upcoming Events](https://llm-d.ai/docs/community/events)
+- **📅 Upcoming Events:** [Upcoming Events](https://llm-d.ai/community/events)
 
 ## 💬 Communication Channels
 
@@ -43,7 +43,7 @@ New to llm-d? Here's how to get started:
 All meetings are open to the public! 🌟
 
 - **📅 Weekly Standup:** Every Wednesday at 12:30pm ET - Project updates and open discussion
-- **🎯 SIG Meetings:** Various times throughout the week - [See SIG details](https://llm-d.ai/docs/community/sigs) for schedules
+- **🎯 SIG Meetings:** Various times throughout the week - [See SIG details](https://llm-d.ai/community/sigs) for schedules
 
 Join to participate, ask questions, or just listen and learn!
 
@@ -59,15 +59,15 @@ Want to dive deeper into specific areas? Our Special Interest Groups are focused
 - **Autoscaling** - Traffic-aware autoscaling and resource management
 - **Observability** - Monitoring, logging, and metrics
 
-[View more SIG Details →](https://llm-d.ai/docs/community/sigs)
+[View more SIG Details →](https://llm-d.ai/community/sigs)
 
 ## 🤝 How to Contribute
 
 ### Getting Involved
 
-- **📅 Upcoming Events** - [Meetups, talks, and conferences](https://llm-d.ai/docs/community/events)
-- **📝 Contributing Guidelines** - Complete guide to [contributing code, docs, and ideas](https://llm-d.ai/docs/community/contribute)
-- **👥 Special Interest Groups (SIGs)** - [Join focused teams](https://llm-d.ai/docs/community/sigs) working on specific areas
+- **📅 Upcoming Events** - [Meetups, talks, and conferences](https://llm-d.ai/community/events)
+- **📝 Contributing Guidelines** - Complete guide to [contributing code, docs, and ideas](https://llm-d.ai/community/contribute)
+- **👥 Special Interest Groups (SIGs)** - [Join focused teams](https://llm-d.ai/community/sigs) working on specific areas
 - **🤝 Code of Conduct** - Our [community standards and values](https://github.com/llm-d/llm-d/blob/main/CODE_OF_CONDUCT.md)
 
 ### Contributing Code
